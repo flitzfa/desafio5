@@ -1,0 +1,24 @@
+.color-navbar{
+    background-color: #cdcdcd;
+}
+
+.logo-marca{
+    font-family: 'Fredoka One', cursive;
+    font-size:30px;
+    text-decoration: none;
+}
+
+.fotos-burgers{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+footer p{
+    padding-top: 20rem;
+}
+
+@media only screen and (max-width: 992px){
+    .esconder{
+        display: none;
+    }
+}
